@@ -1,2 +1,2 @@
 # usaco-bronze
-my usaco bronze codes
+my usaco bronze problem codes in C++
